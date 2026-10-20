@@ -1,0 +1,13 @@
+{
+	"type": "speakerSkin",
+	"price": 250,
+
+	"title": "Girlfriend (Morden)",
+	"description": "So morden funkin soul 2",
+
+	"node":
+	{
+		"parent": "bf-modern",
+		"direction": "north"
+	}
+}

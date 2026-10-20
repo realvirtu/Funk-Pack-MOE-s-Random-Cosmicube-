@@ -1,0 +1,13 @@
+{
+	"type": "playerSkin",
+	"price": 250,
+
+	"title": "Boyfriend (Morden)",
+	"description": "So morden funkin soul",
+
+	"node":
+	{
+		"parent": "animania-bf",
+		"direction": "east"
+	}
+}
